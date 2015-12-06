@@ -1,6 +1,6 @@
 # integral-approx
 
-this repository shows the use of abstract classes and polymorphism with integral approximation methods
+this repository shows the use of abstract classes and polymorphism in C++ with integral approximation methods
 
 the makefile file compiles with warning and debugging flags
 
